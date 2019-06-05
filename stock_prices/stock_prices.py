@@ -1,10 +1,16 @@
 #!/usr/bin/python
 """
-[] find largest number (a)
-[] find smallest number (b)
-[] find the difference of a and b
-[] BUT a MUST be before b
+1) Understanding the Problem
+  [] find largest number (a)
+  [] find smallest number (b)
+  [] find the difference of a and b
+  [] BUT a MUST be before b
+2) Devise a Plan
+3) Carry out Plan
+4) Review
 """
+
+
 
 import argparse
 

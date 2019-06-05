@@ -1,5 +1,10 @@
 #!/usr/bin/python
-
+"""
+1) Understanding the Problem
+2) Devise a Plan
+3) Carry out Plan
+4) Review
+"""
 import sys
 
 # The cache parameter is here for if you want to implement
